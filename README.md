@@ -41,7 +41,7 @@ Contains order-level data including sales, profit, quantity, discount, segment, 
 - Added a Ship Mode filter for flexible analysis.
 
 ## Dashboard Preview
-![AQSkill Technologies 2022 Sales/Profit Report](image-link)
+<img width="1281" height="769" alt="image" src="https://github.com/user-attachments/assets/6dac76ed-8ec8-44d8-843e-efde3788115a" />
 
 ## Recommendations and Insights
 1. **Top Profitable Sub-Categories**  
